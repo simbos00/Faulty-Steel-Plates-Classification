@@ -16,7 +16,7 @@ library(class)
 
 
 # Setting working directory
-setwd("C:\\Users\\Simone\\OneDrive - unibs.it\\Università\\Statistical Learning\\Progetto Statistical Learning")
+setwd("")
 getwd()
 
 # Loading the data
