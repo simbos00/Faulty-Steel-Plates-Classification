@@ -13,10 +13,11 @@ The source of the dataset is Kaggle: https://www.kaggle.com/datasets/uciml/fault
 
 ## How to Run
 1. Clone this repository.
-2. Open the 'script.R' file in RStudio or any R environment.
-3. Install the required packages.
-4. At line 19 insert the directory of the dataset
-5. Run the script.
+2. Download the dataset from Kaggle 
+3. Open the 'script.R' file in RStudio or any R environment.
+4. Install the required packages.
+5. At line 19 insert the directory of the dataset
+6. Run the script.
 
 ## Results
 The model achieved an accuracy of almost 70% in classifying minor and major faults using the second Logistic Regression Model. 
